@@ -15,7 +15,7 @@
   "homepage": "https://github.com/LLK/scratch-translate-extension-languages#readme",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/LLK/scratch-translate-extension-languages.git"
+    "url": "git+ssh://git@github.com/02engine/scratch-translate-extension-languages.git"
   },
   "devDependencies": {
     "@google-cloud/translate": "1.1.0",
